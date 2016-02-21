@@ -1,7 +1,7 @@
 module.exports = function(grunt) {
 
 	var config = {
-		theme: 'Sacat.Web.Public/Content'
+		theme: 'appfolder'
 	};
 
     grunt.initConfig({
